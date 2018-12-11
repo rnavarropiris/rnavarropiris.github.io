@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/rubennavarro
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rnavarropiris.github.io
+  * I am rubennavarro (https://keybase.io/rubennavarro) on keybase.
+  * I have a public key with fingerprint A40E FA37 1EAD A6D3 D370  8C19 5949 F339 C45A F2CD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010168c8537270260cbe42270f14b13a55ccd41019f0a1ce2f2350260dda5eadca810a",
+      "fingerprint": "a40efa371eada6d3d3708c195949f339c45af2cd",
+      "host": "keybase.io",
+      "key_id": "5949f339c45af2cd",
+      "kid": "010168c8537270260cbe42270f14b13a55ccd41019f0a1ce2f2350260dda5eadca810a",
+      "uid": "e5922d329390f5398f61641dfb6ba819",
+      "username": "rubennavarro"
+    },
+    "service": {
+      "hostname": "rnavarropiris.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1544531946,
+  "expire_in": 157680000,
+  "prev": "cbd60a2a818dcdf979f48b93b539a9b08ec11a81cedc1b694aa3fea14915c48f",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMNEAnicrZJrTBxVFMcXaZFCeVmKNNgAgymvlcx7ZzYaqcUaBQKlJJVK3N6ZuQNT
+YHe7syy74ZHGVpI2Ba0gpbaQGqso2F2xuhaLFhRE3YLSxsQljSksTePWhEhLsVLA
+O9h+86P3y32c3/mf8z+5I1GhuoiQshdv8yN758dDfMM9tbryGE+wHhMskgsz1mNV
+cG2D1RJU7aYqRcKMGE7gBMuJHEMZSANOsrgoQJpER5mgBYICDCOKEo0gXsYBIUJS
+JilG4yQJMBBIIuAIHGB6TFbMFdBmtSlmO5IFNA5lQBkIhABWoiTKgHMiwTM8zcsU
+xYs0A2RSlFBipUXVMlBzAlBhjmJBb+hiWmvvP/j/ue/aNTnI8CQpUSRP8bjMUDwn
+swRLE5IssAIieQ1Uoc0MaiCibbUCNJuBA9hsFqxRj6GIQxGhNlzNzUPqAWFVbIqa
+U6HYK2uFf+1ZbRa7RbRUI6jSbreqRk3E7rJqWXVQMD3QMwmKWUJjRRkOaFMVixkz
+EogU7YpWgGBomqEInmb1GHSiKtCkaARjYDkcLa0OdCBJUZBYHJDIByeJkswbeJnm
+BJ4SkFHACzgHRYJAURFKIiGwPA0AJUNA0DzBiDQnY5rDA2YLZiQ51CeoQJqqUmEG
+9lobxBq/GS5fpwuJ0IWtf0T7b7qIDbEPf2H4oZhV1/nUiZD197bf6WsJSnWe3JbH
+Gj6JDMwleyOnn3YWR21aPld/QIzO9AxMT11Ut80VOAPZamh/M749P3l5MLrwQuGp
+fdyoUFVkpUF3x7bckvGecBt7RH/EWtA++qshoViXl7q6dXdSfv7pKUfx1jI/q/fa
+4xbuXtqZ555NeDftVFzjsY9+OM5M7bo8u+WPoau3Vg6+pLT7vUSOd9wkhzxPBu49
+YQ30LbzilvtaUzpM346t3N/R62waGNs892k6jXdLpa5FytTVlTt4+OJYcumzw7vI
+LeUpU4nqfuzLuN82n1i8kTjZ9uSVc4tn9lxZ0PdPZBUO3N+9c19osC2jOzVuhInP
+EFtzklo2Xm+aeiu2yjP/V0ZB/wZ3WJqfdEcmjX53qcYZsbxHnn0/9fHStt6W6t6X
+D062kxsb7MKP4kn9c3sPZzQ4enz9JYNBH31yKTnrdq7/0NKH+5/5uGAyZSml5rU/
+OwLTvtaiQGd+dXRpmvPue+7TX5z4ezozYWah7Himo9D/80R4i+X3a76Y1+NX3+7E
+b95Jd5UEP9Ovu+Z9dEfsmDzvac46OkN+Hew5G/vL3OWfMJCc/ubZ817XMZio+rs7
+3xgnZm7GrxiOitn97cAZ1X2j9avPcwxq2NXKRPIFn/vVJmP20IXmsNxNXd8PWbxL
+ng8U5VbAfcZV9M7YU9fzYur+Ac+pycA=
+=spYz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rubennavarro
+
+==================================================================
