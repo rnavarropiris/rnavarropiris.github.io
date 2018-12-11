@@ -6,9 +6,26 @@
       <title>Ruben Navarro</title>
       <style>
          * {
-            margin: 0;
+            margin: 2;
             -webkit-margin-before: 0;
             -webkit-margin-after: 0;
+         }
+         header {
+           text-align: center;
+           display: block;
+         }
+         @media (min-width: 50rem) { 
+           header {
+            text-align: right;
+            display: flex;
+            justify-content: flex-end;
+            align-items: flex-end;
+           }
+           {
+             margin: 0;
+             -webkit-margin-before: 0;
+             -webkit-margin-after: 0;
+           }
          }
          html, body {
             height: 100vh;
@@ -23,18 +40,12 @@
             color: #3a434c;
          }
          .wrapper {
-            max-width: 45rem;
+            max-width: 50rem;
             margin: 0 auto;
             padding-top: 10rem;
          }
          img {
             max-width: 15rem;
-         }
-         header {
-            text-align: right;
-            display: flex;
-            justify-content: flex-end;
-            align-items: flex-end;
          }
          h3 {
             font-weight: 300;
